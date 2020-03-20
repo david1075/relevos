@@ -12,6 +12,7 @@ package relevos;
 public class Main {
 
     /**
+     * metodo main por donde inicia el programa
      * @param args the command line arguments
      */
     public static void main(String[] args) {
